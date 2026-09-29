@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there! 👋
+I'm Arjun Kiran! I'm a high school freshman and I'm a rising devloper!
 
 <!--
 **arjunkirandev/arjunkirandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
