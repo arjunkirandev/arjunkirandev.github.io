@@ -1,6 +1,11 @@
 ## Hey there! 👋
 I'm Arjun Kiran! I'm a high school freshman and I'm a rising devloper!
-
+I try to make the web more human.
+I've got a 4.0 GPA, currently interning at SkipCourse LLC. I build with HTML, CSS, C, JavaScript, and Python - and I'm just as at home leading a committee or stepping onto a volleyball court. Passionate about STEM, cybersecurity, and using code to solve real problems.
+I'm currently learning to code better and apply it well!
+Reach me through my web portfolio and its very cool links!
+Portfolio: https://arjunkirandev.github.io
+Pronouns: he/him
 <!--
 **arjunkirandev/arjunkirandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
